@@ -1,0 +1,510 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://ibranazar-portfolio.oneapp.dev/
+Subject: Nibra Beebi K | Portfolio
+Date: Sat, 15 Aug 2026 09:23:24 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--sVXu3qj7EdkNyvquDxrxXC170LC0cg8iQkNIemEgOK----"
+
+
+------MultipartBoundary--sVXu3qj7EdkNyvquDxrxXC170LC0cg8iQkNIemEgOK----
+Content-Type: text/html
+Content-ID: <frame-11FC8799D67523414A62019F0677D1F3@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://ibranazar-portfolio.oneapp.dev/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-14224feb-5f19-4018-ac6d-75662efea1e1@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Nibra Beebi K | Portfolio</title>
+
+    
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="logo">Nibra<span>.</span></div>
+
+        <ul>
+            <li><a href="https://ibranazar-portfolio.oneapp.dev/#home">Home</a></li>
+            <li><a href="https://ibranazar-portfolio.oneapp.dev/#about">About</a></li>
+            <li><a href="https://ibranazar-portfolio.oneapp.dev/#education">Education</a></li>
+            <li><a href="https://ibranazar-portfolio.oneapp.dev/#skills">Skills</a></li>
+            <li><a href="https://ibranazar-portfolio.oneapp.dev/#certifications">Certificates</a></li>
+            <li><a href="https://ibranazar-portfolio.oneapp.dev/#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+
+        <div class="hero-content">
+
+            <h1>Hi, I'm <span>Nibra Beebi K</span></h1>
+
+            <h2>BCA Student | Software Developer | UI Developer</h2>
+
+            <p>
+                Aspiring Software Developer with a strong foundation in
+                Front-end Development, Python, Web Technologies and
+                AI Predictive Modeling.
+            </p>
+
+            <div class="buttons">
+                <a href="https://ibranazar-portfolio.oneapp.dev/#about" class="btn primary">Explore My Portfolio</a>
+                <a href="https://ibranazar-portfolio.oneapp.dev/#contact" class="btn secondary">Contact Me</a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- About Section -->
+    <section id="about">
+
+        <div class="section-title">
+            <h2>About Me</h2>
+            <p>Get to know me</p>
+        </div>
+
+        <div class="about">
+
+            <div class="about-text">
+
+                <h3>Aspiring Software Developer</h3>
+
+                <p>
+                    I am a BCA student passionate about technology,
+                    software development and modern web technologies.
+                </p>
+
+                <p>
+                    I have a strong foundation in Python, C++, HTML,
+                    CSS, JavaScript and Bootstrap. I am also interested
+                    in AI predictive modeling and UI development.
+                </p>
+
+                <p>
+                    My goal is to work in a growth-oriented organization
+                    where I can improve my technical skills and contribute
+                    to innovative projects.
+                </p>
+
+            </div>
+
+
+            <div class="contact-box">
+
+                <p><strong>Name:</strong> Nibra Beebi K</p>
+
+                <p><strong>Location:</strong> Kannur, Kerala</p>
+
+                <p><strong>Phone:</strong> +91 9497468233</p>
+
+                <p><strong>Email:</strong> nibranazar@gmail.com</p>
+
+                <p><strong>Languages:</strong> English, Malayalam</p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Education -->
+    <section id="education">
+
+        <div class="section-title">
+            <h2>Education</h2>
+            <p>My academic background</p>
+        </div>
+
+        <div class="education-container">
+
+            <div class="education-card">
+
+                <h3>Bachelor of Computer Applications (BCA)</h3>
+
+                <p>
+                    Jamia Hamdard Kannur Campus
+                </p>
+
+                <span>2023 – Present</span>
+
+            </div>
+
+
+            <div class="education-card">
+
+                <h3>Higher Secondary (+2 Science)</h3>
+
+                <p>
+                    DISGHSS, Kannur
+                </p>
+
+                <span>2021 – 2023</span>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Skills -->
+    <section id="skills">
+
+        <div class="section-title">
+            <h2>Technical Skills</h2>
+            <p>Technologies I work with</p>
+        </div>
+
+        <div class="skills-container">
+
+            <div class="skill-card">
+                <h3>Python</h3>
+                <p>Programming &amp; AI Development</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>C++</h3>
+                <p>Programming &amp; Problem Solving</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>HTML</h3>
+                <p>Web Structure &amp; Development</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>CSS</h3>
+                <p>Responsive UI &amp; Styling</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>JavaScript</h3>
+                <p>Interactive Web Development</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>Bootstrap</h3>
+                <p>Responsive Front-end Design</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Specializations -->
+    <section>
+
+        <div class="section-title">
+            <h2>Specializations</h2>
+            <p>My areas of interest</p>
+        </div>
+
+        <div class="skills-container">
+
+            <div class="skill-card">
+                <h3>UI Development</h3>
+                <p>Creating clean and user-friendly interfaces.</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>Front-end Development</h3>
+                <p>Building responsive and interactive websites.</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>AI Predictive Modeling</h3>
+                <p>Developing predictive models using Python.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Certifications -->
+    <section id="certifications">
+
+        <div class="section-title">
+            <h2>Certifications &amp; Training</h2>
+            <p>Courses and professional training</p>
+        </div>
+
+        <div class="certifications">
+
+            <div class="cert-card">
+
+                <h3>
+                    AI in Action: Building Your First Predictive Model
+                </h3>
+
+                <span>Upcode Software Labs | Dec 2025</span>
+
+                <p>
+                    Intensive training program focused on developing
+                    AI predictive models using Python.
+                </p>
+
+            </div>
+
+
+            <div class="cert-card">
+
+                <h3>Python Programming Workshop</h3>
+
+                <span>
+                    Sysbreeze Technologies Pvt Ltd | Dec 2025
+                </span>
+
+                <p>
+                    Practical training in Python applications
+                    and development.
+                </p>
+
+            </div>
+
+
+            <div class="cert-card">
+
+                <h3>Software Development Bootcamp</h3>
+
+                <span>
+                    Upcode Software Labs | May 2024
+                </span>
+
+                <p>
+                    Two-week training program specializing in
+                    HTML, CSS, Bootstrap and JavaScript.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Key Abilities -->
+    <section>
+
+        <div class="section-title">
+            <h2>Key Abilities</h2>
+            <p>My professional strengths</p>
+        </div>
+
+        <div class="abilities">
+
+            <div class="ability">
+                <h3>Leadership</h3>
+                <p>
+                    Ability to lead and take independent
+                    responsibility for projects.
+                </p>
+            </div>
+
+            <div class="ability">
+                <h3>Communication</h3>
+                <p>
+                    Strong verbal and written communication skills.
+                </p>
+            </div>
+
+            <div class="ability">
+                <h3>Reliability</h3>
+                <p>
+                    Punctual and committed to meeting deadlines.
+                </p>
+            </div>
+
+            <div class="ability">
+                <h3>Motivation</h3>
+                <p>
+                    Self-motivated learner interested in
+                    emerging technologies.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section class="contact" id="contact">
+
+        <h2>Let's Connect</h2>
+
+        <p>
+            I'm open to entry-level opportunities and
+            exciting software development projects.
+        </p>
+
+        <p>
+            📞 +91 9497468233
+        </p>
+
+        <p>
+            ✉️
+            <a href="mailto:nibranazar@gmail.com">
+                nibranazar@gmail.com
+            </a>
+        </p>
+
+        <p>
+            📍 Kannur, Kerala
+        </p>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © 2026 Nibra Beebi K. All Rights Reserved.
+        </p>
+
+    </footer>
+
+
+
+</body></html>
+------MultipartBoundary--sVXu3qj7EdkNyvquDxrxXC170LC0cg8iQkNIemEgOK----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-14224feb-5f19-4018-ac6d-75662efea1e1@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; scroll-behavior: smooth; }
+
+body { font-family: Arial, Helvetica, sans-serif; background: rgb(247, 248, 252); color: rgb(34, 34, 34); line-height: 1.6; }
+
+nav { position: fixed; top: 0px; width: 100%; background: rgb(17, 24, 39); padding: 18px 8%; display: flex; justify-content: space-between; align-items: center; z-index: 1000; }
+
+.logo { color: white; font-size: 24px; font-weight: bold; }
+
+.logo span { color: rgb(99, 102, 241); }
+
+nav ul { display: flex; list-style: none; gap: 30px; }
+
+nav ul li a { color: white; text-decoration: none; font-size: 15px; transition: 0.3s; }
+
+nav ul li a:hover { color: rgb(129, 140, 248); }
+
+.hero { min-height: 100vh; display: flex; justify-content: center; align-items: center; text-align: center; padding: 100px 20px 60px; background: linear-gradient(135deg, rgb(17, 24, 39), rgb(49, 46, 129)); color: white; }
+
+.hero-content { max-width: 800px; }
+
+.hero h1 { font-size: 55px; margin-bottom: 10px; }
+
+.hero h1 span { color: rgb(129, 140, 248); }
+
+.hero h2 { font-size: 25px; font-weight: normal; margin-bottom: 20px; }
+
+.hero p { color: rgb(209, 213, 219); max-width: 650px; margin: auto; font-size: 17px; }
+
+.buttons { margin-top: 30px; }
+
+.btn { display: inline-block; padding: 12px 25px; margin: 5px; border-radius: 30px; text-decoration: none; font-weight: bold; transition: 0.3s; }
+
+.primary { background: rgb(99, 102, 241); color: white; }
+
+.primary:hover { background: rgb(79, 70, 229); transform: translateY(-3px); }
+
+.secondary { border: 2px solid rgb(129, 140, 248); color: white; }
+
+.secondary:hover { background: rgb(129, 140, 248); }
+
+section { padding: 80px 8%; }
+
+.section-title { text-align: center; margin-bottom: 45px; }
+
+.section-title h2 { font-size: 35px; color: rgb(17, 24, 39); }
+
+.section-title p { color: rgb(107, 114, 128); }
+
+.about { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; }
+
+.about-text h3 { font-size: 28px; margin-bottom: 15px; color: rgb(49, 46, 129); }
+
+.about-text p { color: rgb(85, 85, 85); margin-bottom: 15px; }
+
+.contact-box { background: white; padding: 25px; border-radius: 15px; box-shadow: rgba(0, 0, 0, 0.08) 0px 5px 20px; }
+
+.contact-box p { margin: 12px 0px; }
+
+.contact-box strong { color: rgb(49, 46, 129); }
+
+.education-container { max-width: 800px; margin: auto; }
+
+.education-card { background: white; padding: 25px; margin-bottom: 20px; border-left: 5px solid rgb(99, 102, 241); border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.07) 0px 5px 18px; }
+
+.education-card h3 { color: rgb(49, 46, 129); margin-bottom: 5px; }
+
+.education-card span { color: rgb(99, 102, 241); font-weight: bold; }
+
+.skills-container { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+
+.skill-card { background: white; padding: 30px 20px; text-align: center; border-radius: 15px; box-shadow: rgba(0, 0, 0, 0.07) 0px 5px 18px; transition: 0.3s; }
+
+.skill-card:hover { transform: translateY(-8px); }
+
+.skill-card h3 { color: rgb(49, 46, 129); margin-bottom: 10px; }
+
+.skill-card p { color: rgb(102, 102, 102); }
+
+.certifications { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+
+.cert-card { background: white; padding: 25px; border-radius: 15px; box-shadow: rgba(0, 0, 0, 0.07) 0px 5px 18px; }
+
+.cert-card h3 { color: rgb(49, 46, 129); margin-bottom: 10px; }
+
+.cert-card span { color: rgb(99, 102, 241); font-size: 14px; font-weight: bold; }
+
+.abilities { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+
+.ability { background: rgb(17, 24, 39); color: white; padding: 25px; border-radius: 15px; text-align: center; }
+
+.ability h3 { color: rgb(129, 140, 248); margin-bottom: 10px; }
+
+.contact { background: rgb(17, 24, 39); color: white; text-align: center; }
+
+.contact h2 { font-size: 35px; margin-bottom: 15px; }
+
+.contact p { color: rgb(209, 213, 219); margin: 8px; }
+
+.contact a { color: rgb(129, 140, 248); text-decoration: none; }
+
+footer { background: rgb(3, 7, 18); color: rgb(156, 163, 175); text-align: center; padding: 20px; font-size: 14px; }
+
+@media (max-width: 900px) {
+  nav { padding: 15px 5%; }
+  nav ul { gap: 15px; }
+  .hero h1 { font-size: 42px; }
+  .about { grid-template-columns: 1fr; }
+  .skills-container, .certifications { grid-template-columns: repeat(2, 1fr); }
+  .abilities { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  nav { flex-direction: column; gap: 10px; }
+  nav ul { gap: 12px; flex-wrap: wrap; justify-content: center; }
+  .hero h1 { font-size: 34px; }
+  .hero h2 { font-size: 20px; }
+  section { padding: 60px 5%; }
+  .skills-container, .certifications, .abilities { grid-template-columns: 1fr; }
+  .section-title h2 { font-size: 28px; }
+}
+------MultipartBoundary--sVXu3qj7EdkNyvquDxrxXC170LC0cg8iQkNIemEgOK------
